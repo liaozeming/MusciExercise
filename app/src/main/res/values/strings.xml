@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LzmFour</string>
+    <string name="title_string">本地音乐</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">退出</string>
+    <string name="btn_confirm">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="str_warning">警告</string>
+</resources>
